@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+* {
+    cursor: url('normal.cur'), auto;
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: darkslateblue;
+    background-image: url('nighty night.gif');
+    color: white;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes rainbow_animation {
+    0%,
+    100% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 100% 0;
+    }
+}
+
+@keyframes epic-skew {
+    0%,
+    100% {
+        transform: skew(50deg, -30deg) scale(1, 1);
+    }
+    50% {
+        transform: skew(10deg, -30deg) scale(0.75, 1.5);
+    }
+}
+
+.spinner {
+    animation: rotate 10s linear infinite;
+    font-size: 10rem;
+    text-align: center;
+}
+
+.spinner:hover:after {
+    content: '😊';
+}
+
+.spinner:after {
+    content: '😳';
+}
+
+.wheee {
+    color: orangered;
+    font-style: italic;
+    font-size: 3rem;
+    overflow-x: hidden;
+}
+
+.epic {
+    font-size: min(8vh, 5vw);
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+    margin-top: 5rem;
+    background: linear-gradient(to right, #6666ff, #0099ff, #00ff00, #ff3399, #6666ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: 1000% 100%;
+    animation: epic-skew 2s ease-in-out infinite, rainbow_animation 6s linear infinite;
+    text-align: center;
+    white-space: nowrap;
+    position: fixed;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    text-align: right;
+    margin-left: -25px;
+    width: 100%;
+}
