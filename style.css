@@ -3,10 +3,15 @@
     cursor: url('normal.cur'), auto;
 }
 
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
 body {
     font-family: 'Noto Sans', sans-serif;
     background-color: darkslateblue;
-    background-image: url('nighty night.gif');
     color: white;
 }
 
@@ -39,42 +44,46 @@ body {
     }
 }
 
-.spinner {
-    animation: rotate 10s linear infinite;
-    font-size: 10rem;
-    text-align: center;
+@keyframes jump-anim {
+    50% {
+        transform: translateY(-50%);
+    }
+    0%,
+    100% {
+        transform: translateY(0%);
+    }
 }
 
-.spinner:hover:after {
-    content: '😊';
+@keyframes jump-left {
+    50% {
+        transform: skew(50deg, -30deg) translateY(-50%) scale(0.5) rotate(360deg);
+    }
+    0%,
+    100% {
+        transform: skew(0deg, 0deg) translateY(0%) scale(1) rotate(0deg);
+    }
 }
 
-.spinner:after {
-    content: '😳';
+@keyframes jump-right {
+    50% {
+        transform: skew(-50deg, 30deg) translateY(-50%) scale(0.5) rotate(360deg);
+    }
+    0%,
+    100% {
+        transform: skew(0deg, 0deg) translateY(0%) scale(1) rotate(0deg);
+    }
 }
 
-.wheee {
-    color: orangered;
-    font-style: italic;
-    font-size: 3rem;
-    overflow-x: hidden;
+.jump {
+    animation: jump-anim 0.3s forwards ease-in-out;
 }
 
-.epic {
-    font-size: min(8vh, 5vw);
-    font-weight: bold;
-    font-style: italic;
-    font-family: cursive;
-    margin-top: 5rem;
-    background: linear-gradient(to right, #6666ff, #0099ff, #00ff00, #ff3399, #6666ff);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-    background-size: 1000% 100%;
-    animation: epic-skew 2s ease-in-out infinite, rainbow_animation 6s linear infinite;
-    text-align: center;
-    white-space: nowrap;
-    position: fixed;
+.jumpRight {
+    animation: jump-right 0.3s forwards ease-in-out;
+}
+
+.jumpLeft {
+    animation: jump-left 0.3s forwards ease-in-out;
 }
 
 footer {

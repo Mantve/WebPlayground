@@ -1,0 +1,269 @@
+<svg id="Mantelis" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186" height="406" viewBox="0 0 186 406">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5d514c;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-10, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #645b57;
+        filter: url(#filter-2);
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #8de920;
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        filter: url(#filter-4);
+      }
+
+      .cls-5 {
+        filter: url(#filter-5);
+      }
+
+      .cls-6 {
+        fill: #fef8c1;
+        filter: url(#filter-6);
+      }
+
+      .cls-10, .cls-7, .cls-8 {
+        stroke: #000;
+        stroke-width: 1px;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        fill: #fefdc9;
+        filter: url(#filter-7);
+      }
+
+      .cls-10 {
+        filter: url(#filter-8);
+      }
+    </style>
+    <filter id="filter" x="63" y="290" width="58" height="108" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="63" y="290" width="58" height="108" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTgiIGhlaWdodD0iMTA4IiB2aWV3Qm94PSIwIDAgNTggMTA4Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBvcGFjaXR5OiAwLjU1OwogICAgICAgIGZpbGw6IHVybCgjcmFkaWFsLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0icmFkaWFsLWdyYWRpZW50IiBjeD0iMjkiIGN5PSI1NCIgcj0iMjkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjODA2ZTYwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC4zMDUiIHN0b3AtY29sb3I9IiM4MDZlNjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjgiIHN0b3AtY29sb3I9IiM4MDZlNjAiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNTgiIGhlaWdodD0iMTA4Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#806e60"/>
+      <feComposite result="composite-2" operator="out" in2="blur"/>
+      <feOffset result="offset" dx="-2"/>
+      <feComposite result="composite-3" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1.732" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#806e60"/>
+      <feComposite result="composite-4" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2" dx="2"/>
+      <feComposite result="composite-5" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+    </filter>
+    <filter id="filter-2" x="64" y="390.781" width="58" height="15.25" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="64" y="390.781" width="58" height="15.25" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTgiIGhlaWdodD0iMTUuMjUiIHZpZXdCb3g9IjAgMCA1OCAxNS4yNSI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgb3BhY2l0eTogMC45OwogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMjkiIHkxPSIxNS4yNSIgeDI9IjI5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzVhNTI0ZSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuODc1IiBzdG9wLWNvbG9yPSIjNjA1ODU0Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI1OCIgaGVpZ2h0PSIxNS4yNSIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur" stdDeviation="1.414" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#46403d" flood-opacity="0.5"/>
+      <feComposite result="composite-2" operator="out" in2="blur"/>
+      <feOffset result="offset" dy="-2"/>
+      <feComposite result="composite-3" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1.414" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#5d534d"/>
+      <feComposite result="composite-4" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2" dy="2"/>
+      <feComposite result="composite-5" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+    </filter>
+    <filter id="filter-3" x="61.281" y="205.219" width="61.407" height="87.781" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="61.2812" y="205.219" width="61.407" height="87.781" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNjEuNDA3IiBoZWlnaHQ9Ijg3Ljc4MSIgdmlld0JveD0iMCAwIDYxLjQwNyA4Ny43ODEiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIG9wYWNpdHk6IDAuOTsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeTE9IjQzLjg5MSIgeDI9IjYxLjQwNyIgeTI9IjQzLjg5MSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM4NmNmMjciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjQ5NSIgc3RvcC1jb2xvcj0iIzhlZWIxZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM4NmNmMjciLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjYxLjQwNyIgaGVpZ2h0PSI4Ny43ODEiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="61.2812" y="205.219" width="61.407" height="87.781" result="image-2" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNjEuNDA3IiBoZWlnaHQ9Ijg3Ljc4MSIgdmlld0JveD0iMCAwIDYxLjQwNyA4Ny43ODEiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIG9wYWNpdHk6IDAuOTsKICAgICAgICBmaWxsOiB1cmwoI3JhZGlhbC1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9InJhZGlhbC1ncmFkaWVudCIgY3g9IjMwLjcwMyIgY3k9IjQzLjg5MSIgcj0iMzAuNzAzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzhhZmYwMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEuNSIgc3RvcC1jb2xvcj0iIzhhZmYwMCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI2MS40MDciIGhlaWdodD0iODcuNzgxIi8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur" stdDeviation="1.414" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#b7f655"/>
+      <feComposite result="composite-3" operator="out" in2="blur"/>
+      <feOffset result="offset" dx="2.819" dy="-1.026"/>
+      <feComposite result="composite-4" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1.414" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#b7f655"/>
+      <feComposite result="composite-5" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2" dx="-2.819" dy="-1.026"/>
+      <feComposite result="composite-6" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-4" in2="blend-3"/>
+      <feGaussianBlur result="blur-3" stdDeviation="4.583" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#8de920"/>
+      <feComposite result="composite-7" operator="out" in2="blur-3"/>
+      <feOffset result="offset-3" dy="26"/>
+      <feComposite result="composite-8" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-5" in2="blend-4"/>
+    </filter>
+    <filter id="filter-4" x="31.969" y="220.969" width="39.062" height="106.156" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="2.449" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#7fbc1e" flood-opacity="0.5"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dx="-2.071" dy="-7.727"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur-2" stdDeviation="2.449" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#94f324"/>
+      <feComposite result="composite-3" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2" dx="3.536" dy="3.536"/>
+      <feComposite result="composite-4" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-3" stdDeviation="1.732" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#8de920"/>
+      <feComposite result="composite-5" operator="out" in2="blur-3"/>
+      <feOffset result="offset-3" dx="0.907" dy="12.968"/>
+      <feComposite result="composite-6" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+    </filter>
+    <filter id="filter-5" x="112.969" y="220.969" width="39.062" height="106.156" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="2.449" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#7fbc1e" flood-opacity="0.5"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dx="2.071" dy="-7.727"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur-2" stdDeviation="2.449" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#94f324"/>
+      <feComposite result="composite-3" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2" dx="-3.536" dy="3.536"/>
+      <feComposite result="composite-4" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-3" stdDeviation="1.732" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#8de920"/>
+      <feComposite result="composite-5" operator="out" in2="blur-3"/>
+      <feOffset result="offset-3" dx="-0.907" dy="12.968"/>
+      <feComposite result="composite-6" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+    </filter>
+    <filter id="filter-6" x="13.875" y="22.563" width="156.25" height="187.469" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="13.875" y="22.5625" width="156.25" height="187.469" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTU2LjI1IiBoZWlnaHQ9IjE4Ny40NjkiIHZpZXdCb3g9IjAgMCAxNTYuMjUgMTg3LjQ2OSI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI3OC4xMjUiIHkxPSIxODcuNDY5IiB4Mj0iNzguMTI1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLTAuMjUiIHN0b3AtY29sb3I9IiNmZmJiOGEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxLjI1IiBzdG9wLWNvbG9yPSIjZmZiYjhhIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjE1Ni4yNSIgaGVpZ2h0PSIxODcuNDY5Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="13.875" y="22.5625" width="156.25" height="187.469" result="image-2" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTU2LjI1IiBoZWlnaHQ9IjE4Ny40NjkiIHZpZXdCb3g9IjAgMCAxNTYuMjUgMTg3LjQ2OSI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNyYWRpYWwtZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQiIGN4PSI3OC4xMjUiIGN5PSI5My43MzQiIHI9IjkzLjczNCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmZmYwYjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmMGI4IiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjE1Ni4yNSIgaGVpZ2h0PSIxODcuNDY5Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#ffc38f"/>
+      <feComposite result="composite-3" operator="out" in2="blur"/>
+      <feOffset result="offset" dy="-10"/>
+      <feComposite result="composite-4" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+      <feGaussianBlur result="blur-2" stdDeviation="4.472" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#ffc38f"/>
+      <feComposite result="composite-5" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2" dy="-5"/>
+      <feComposite result="composite-6" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-4" in2="blend-3"/>
+      <feGaussianBlur result="blur-3" stdDeviation="2.449" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#fff1b8"/>
+      <feComposite result="composite-7" operator="out" in2="blur-3"/>
+      <feOffset result="offset-3" dx="-8.66" dy="5"/>
+      <feComposite result="composite-8" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-5" in2="blend-4"/>
+      <feGaussianBlur result="blur-4" stdDeviation="2.449" in="SourceAlpha"/>
+      <feFlood result="flood-4" flood-color="#fff1b8"/>
+      <feComposite result="composite-9" operator="out" in2="blur-4"/>
+      <feOffset result="offset-4" dx="8.66" dy="5"/>
+      <feComposite result="composite-10" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-6" in2="blend-5"/>
+      <feGaussianBlur result="blur-5" stdDeviation="1.414" in="SourceAlpha"/>
+      <feFlood result="flood-5" flood-color="#fff1b8"/>
+      <feComposite result="composite-11" operator="out" in2="blur-5"/>
+      <feOffset result="offset-5" dy="-1"/>
+      <feComposite result="composite-12" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-7" in2="blend-6"/>
+    </filter>
+    <filter id="filter-7" x="81.156" y="125" width="21.688" height="28" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="81.1562" y="125" width="21.688" height="28" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjEuNjg4IiBoZWlnaHQ9IjI4IiB2aWV3Qm94PSIwIDAgMjEuNjg4IDI4Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBvcGFjaXR5OiAwLjk7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHkxPSIxNCIgeDI9IjIxLjY4OCIgeTI9IjE0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZlZDlhMiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuMSIgc3RvcC1jb2xvcj0iI2ZlZDlhMiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuNDk1IiBzdG9wLWNvbG9yPSIjZmZmN2JmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC44MTEiIHN0b3AtY29sb3I9IiNmZmM4OTYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjIxLjY4OCIgaGVpZ2h0PSIyOCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236" in="SourceAlpha"/>
+      <feFlood result="flood" flood-color="#fcc08c"/>
+      <feComposite result="composite-2" operator="out" in2="blur"/>
+      <feOffset result="offset" dx="0.877" dy="-1.798"/>
+      <feComposite result="composite-3" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-color="#fdf3c7"/>
+      <feComposite result="composite-4" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2" dx="-2"/>
+      <feComposite result="composite-5" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+      <feGaussianBlur result="blur-3" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-color="#fdf3c7"/>
+      <feComposite result="composite-6" operator="out" in2="blur-3"/>
+      <feOffset result="offset-3" dy="2"/>
+      <feComposite result="composite-7" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-4" in2="blend-3"/>
+      <feGaussianBlur result="blur-4" stdDeviation="1" in="SourceAlpha"/>
+      <feFlood result="flood-4" flood-color="#fcc08c"/>
+      <feComposite result="composite-8" operator="out" in2="blur-4"/>
+      <feOffset result="offset-4" dy="-1"/>
+      <feComposite result="composite-9" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-5" in2="blend-4"/>
+    </filter>
+    <filter id="filter-8" x="51" y="26" width="107" height="59" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="51" y="26" width="107" height="59" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTA3IiBoZWlnaHQ9IjU5IiB2aWV3Qm94PSIwIDAgMTA3IDU5Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjUzLjUiIHgyPSI1My41IiB5Mj0iNTkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMmMyODIzIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjEzIiBzdG9wLWNvbG9yPSIjMmMyODIzIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzJjMjgyMyIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIxMDciIGhlaWdodD0iNTkiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="51" y="26" width="107" height="59" result="image-2" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTA3IiBoZWlnaHQ9IjU5IiB2aWV3Qm94PSIwIDAgMTA3IDU5Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBvcGFjaXR5OiAwLjY1OwogICAgICAgIGZpbGw6IHVybCgjcmFkaWFsLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0icmFkaWFsLWdyYWRpZW50IiBjeD0iNTMuNSIgY3k9IjI5LjUiIHI9IjI5LjUiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMS4wMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSIxMDciIGhlaWdodD0iNTkiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <path id="Pants" class="cls-1" d="M92,321H90l-1,77-24-1a38.893,38.893,0,0,0,1-9c-0.456-23.956-3-98-3-98-0.251.3,6.282,2.423,13.537,2.237C84.083,292.043,92.01,292,92,292v29Zm0,0h2l3,77,24-1a38.874,38.874,0,0,1-1-9c0.456-23.956,1-98,1-98,0.251,0.3-6.282,2.423-13.537,2.237C99.917,292.043,91.99,292,92,292v29Z"/>
+  <path id="Shoes" class="cls-2" d="M85.807,391.088c3.582,0.456,3.426,9.29,3.193,10.912s-6.183,4-13,4-12.1.794-12-7,7.234-8.025,9-8C74.714,391.024,80.62,390.428,85.807,391.088Zm14.386,0c-3.582.456-3.426,9.29-3.193,10.912s6.183,4,13,4,12.1,0.794,12-7-7.234-8.025-9-8C111.286,391.024,105.38,390.428,100.193,391.088Z"/>
+  <path id="Body" class="cls-3" d="M114,233c3.252,9.307,5.623,53.818,7,57,1.731,4-59.731,4-58,0,1.377-3.182,3.748-47.693,7-57s-28.339,9.29,12-25c4.266-3.626,15.538-3.793,20,0C142.339,242.29,110.748,223.693,114,233Z"/>
+  <path id="Arm_R" data-name="Arm R" class="cls-4" d="M64,224c-0.2.1-7.607,11.708-13,31-5.7,20.387-12.83,43.891-13,46-0.315,3.917-10.185,11.583-4,20s19.19,6.458,21,4,3.818-6.085,3-17c-0.315-4.208,8-39,8-39s5.546-30.723,5-43C70.556,216.016,64,224,64,224Z"/>
+  <path id="Arm_L" data-name="Arm L" class="cls-5" d="M120,224c0.2,0.1,7.607,11.708,13,31,5.7,20.387,12.83,43.891,13,46,0.315,3.917,10.185,11.583,4,20s-19.19,6.458-21,4-3.818-6.085-3-17c0.315-4.208-8-39-8-39s-5.546-30.723-5-43C113.444,216.016,120,224,120,224Z"/>
+  <g id="Head">
+    <path id="Face" class="cls-6" d="M106.132,206.086c-10.828,5.219-17.436,5.219-28.264,0-18.472-8.9-65.73-45.742-63.916-122.11C15.9,2.1,168.1,2.1,170.048,83.976,171.863,160.344,124.6,197.185,106.132,206.086Z"/>
+    <g id="Face-2" data-name="Face">
+      <g id="Eye_R" data-name="Eye R">
+        <path id="Eyebrow_R" data-name="Eyebrow R" class="cls-7" d="M73.9,101.053c-1.121.6-15.837-2.077-28.9,6.947-13.092,9.043-8.79-3.312-7.213-5.381,4.167-5.467,35.536-7.181,36.131-5.4Z"/>
+        <path id="Eyeshape_R" data-name="Eyeshape R" class="cls-7" d="M57.052,124.108c22.614,1.5,27.342-14.681,6.9-17.817a38.537,38.537,0,0,0-15.511,1.389C40.45,110.291,37.406,122.806,57.052,124.108Z"/>
+        <path class="cls-8" d="M58.083,108.73c8.494-.406,15.464,2.372,15.615,6.448,0.107,2.886-5,5.327-12.353,5.985-9.123.816-16.084-2.417-16.01-6.262C45.4,111.32,50.351,109.1,58.083,108.73Z"/>
+        <path id="Pupil_R" data-name="Pupil R" class="cls-7" d="M59,108.226c4.006,0.114,9.2,3.365,8.452,7.351-0.665,3.551-4.445,6-8.464,6.348-4,.347-7.405-3.539-7.644-7.038S55,108.113,59,108.226Z"/>
+      </g>
+      <g id="Eye_L" data-name="Eye L">
+        <path id="Eyebrow_R-2" data-name="Eyebrow R" class="cls-7" d="M110.1,101.053c1.121,0.6,15.836-2.077,28.9,6.947,13.092,9.043,8.79-3.312,7.213-5.381-4.167-5.467-35.536-7.181-36.131-5.4Z"/>
+        <path id="Eyeshape_R-2" data-name="Eyeshape R" class="cls-7" d="M126.948,124.108c-22.614,1.5-27.343-14.681-6.9-17.817a38.538,38.538,0,0,1,15.511,1.389C143.55,110.291,146.594,122.806,126.948,124.108Z"/>
+        <path class="cls-8" d="M125.917,108.73c-8.494-.406-15.464,2.372-15.615,6.448-0.107,2.886,5,5.327,12.353,5.985,9.123,0.816,16.084-2.417,16.01-6.262C138.6,111.32,133.649,109.1,125.917,108.73Z"/>
+        <path id="Pupil_R-2" data-name="Pupil R" class="cls-7" d="M125,108.226c-4.006.114-9.2,3.365-8.452,7.351,0.666,3.551,4.445,6,8.464,6.348,4,0.347,7.4-3.539,7.644-7.038S129,108.113,125,108.226Z"/>
+      </g>
+      <path id="Mouth" class="cls-7" d="M105.881,176.04C100.214,177.929,92,178,92,178s-8.214-.071-13.881-1.96A14.873,14.873,0,0,1,71,171l2-2a16.906,16.906,0,0,0,7.525,5.008C85.266,175.505,92,175,92,175s6.734,0.5,11.476-.992A16.9,16.9,0,0,0,111,169l2,2A14.87,14.87,0,0,1,105.881,176.04Z"/>
+      <g id="Nose">
+        <path id="Nose_BG" data-name="Nose BG" class="cls-9" d="M92,153c-0.044-.042-11.112-0.289-10.839-4.245a42.755,42.755,0,0,1,2.886-9.85c1.4-3.484,3.023-6.412,4.138-10.134A5.073,5.073,0,0,1,92,125a5.073,5.073,0,0,1,3.816,3.771c1.123,3.751,2.759,6.711,4.17,10.214a42.316,42.316,0,0,1,2.853,9.77C103.112,152.711,92.044,152.958,92,153Z"/>
+        <path id="Nose-2" data-name="Nose" class="cls-7" d="M89,131c0.061,2.109-13.249,20.242-3.678,21.23a112.391,112.391,0,0,0,12.049.2c1.93-.113,1.219.237,3.276-1.186l1.319,2.491c-0.036-.285-1.332,1.271-3.966,1.266-15.983-.033-16.729-0.56-18.319-2.312C75.138,147.682,86.24,130.491,86,130Z"/>
+      </g>
+    </g>
+    <g id="Hair">
+      <path id="Hair_Sideburn_R" data-name="Hair Sideburn R" class="cls-7" d="M171.875,117.169A129.893,129.893,0,0,1,169,130h-2.279c-1.2,3.434-2.813,7.735-4.721,12a198.479,198.479,0,0,1-10,19s5.076-10.5,8.635-20.468C162,136.7,163.078,133.044,163.9,130H161a31.563,31.563,0,0,0,2.195-7.6c1.415-13.959.349-35.748,0.805-35.4l11,8C174.988,95.008,173.237,108.3,171.875,117.169Z"/>
+      <path id="Hair_Sideburn_L" data-name="Hair Sideburn L" class="cls-7" d="M23.365,140.532C26.924,150.5,32,161,32,161a198.375,198.375,0,0,1-10-19c-1.908-4.265-3.522-8.566-4.721-12H15a130.039,130.039,0,0,1-2.875-12.831C10.763,108.3,9.012,95.008,9,95l11-8c0.456-.347-0.61,21.442.805,35.4A31.565,31.565,0,0,0,23,130H20.1C20.922,133.044,22,136.7,23.365,140.532Z"/>
+      <path id="Hair_Top" data-name="Hair Top" class="cls-7" d="M102.732,35.755c0.022,1.528-49.1,57.809-92.721,75.457C2.282,114.339-1.3,89.131.431,77.4,1.31,71.446,4.887,65.442,8.055,57.641,24.9,16.157,72.948-1.391,81.264.233,89.182,1.778,104,1,104,1c-0.136.046,8.319,3.623,24.658,11.1,5.792,2.651,16.7,5.083,21.524,9.876,11.512,11.428,27.515,26.793,34.781,54.978,4.43,17.18-6.938,35.1-6.963,35.044,0,0-1.116.63-2.835-2.343-5.135-8.874-18.692-24.6-28.565-39.723C135.936,53.6,128.06,35,128,35c-1.9-.1-8.542,4.938-12,5C113.339,40.048,102.65,30.122,102.732,35.755Z"/>
+      <g style="fill: ; filter: url(#filter-8)">
+        <path id="Hair_Top_Hlight" data-name="Hair Top Hlight" class="cls-10" d="M51,85c-0.076.5,17.031-12.2,29.4-24.8C93.267,47.085,105.016,33.948,105,34c0,0,9.1,6.02,11,6,3.165-.034,12-5,12-5s7.164,14.958,14.255,26.927A209.729,209.729,0,0,0,158,85L128,27l-12,9L104,26S89.59,43.172,75.735,58.884C63.5,72.76,51.081,84.46,51,85Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Hair_Top_Hlight" style="stroke: #000; filter: none; fill: none"/>
+    </g>
+  </g>
+</svg>
